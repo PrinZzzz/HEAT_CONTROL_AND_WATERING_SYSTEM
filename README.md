@@ -1,2 +1,2 @@
-# HEAT_CONTROL_AND_WATERING_SYSTEM__PROGRAM_
+# HEAT_CONTROL_AND_WATERING_SYSTEM
  Heat Control and Watering System using Arduino 
